@@ -18,7 +18,7 @@ For Amazon Sagemaker part, I have initialized the git repo from the terminal of 
 - Make sure to setup your own S3 Bucket
 
 ### Troubleshoot 
-![troubleshoot](Figure.png)   
+![troubleshoot](trainingjob.png)   
 Just in case if you get this trouble while creating new training job, Please follow below link: 
 https://medium.com/data-science-bootcamp/amazon-sagemaker-ml-p2-xlarge-8b9cbc0dd7d
 
