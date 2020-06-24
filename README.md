@@ -14,5 +14,5 @@ Using Amazon Sagemaker, I have initialized the git repo from the terminal using 
 - Model Tuning
 - Cleanup
 
-#### Need to Know beside following video ![Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/lecture/lfa8u/amazon-sagemaker-object-detection-on-images-labeled-with-ground-truth)
+#### Need to Know beside following video [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/lecture/lfa8u/amazon-sagemaker-object-detection-on-images-labeled-with-ground-truth)
 - Make sure to setup your own S3 Bucket
