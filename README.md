@@ -1,5 +1,5 @@
-# Amazon-SageMaker
-Using Amazon Sagemaker, I have initialized the git repo from the terminal using AWS platform. I added git remote URL to connect AWS terminal to Github server.
+# Amazon SageMaker
+For Amazon Sagemaker part, I have initialized the git repo from the terminal of JupyterLab on AWS platform. I added git remote URL to connect JupyterLab terminal to Github server.
 
 ## Identifying Bees Using Crowd Sourced Data using Amazon SageMaker
 
