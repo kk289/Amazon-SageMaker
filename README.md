@@ -23,5 +23,4 @@ For Amazon Sagemaker part, I have initialized the git repo from the terminal of 
 Just in case if you get this trouble while creating new training job, Please follow below link to resolve: 
 https://medium.com/data-science-bootcamp/amazon-sagemaker-ml-p2-xlarge-8b9cbc0dd7d
 
-
-[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kevilkhadka)](https://github.com/kevilkhadka/github-readme-stats)
+[![Kevil's github stats](https://github-readme-stats.vercel.app/api?username=kevilkhadka)](https://github.com/anuraghazra/github-readme-stats)
